@@ -1,0 +1,9 @@
+<----------------React Core concept-------------->
+
+1) Component ==> Similar in look and feel, different in data. 
+Component is different part of a website. 
+
+2) State ==> useState().
+State is increase or decrease current situation. example: shopping cart
+3) Dynamic data load using api ==> useEffect(() ==> {}, []).
+Data load using api and show in my website. 
